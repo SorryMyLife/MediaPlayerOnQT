@@ -8,7 +8,7 @@ qt版本：Qt 5.14.1/QT CREATOR 4.11.1
 
 编译器: mingw73_64
 
-!(https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/1.png)
-!(https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/2.png)
-!(https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/3.png)
-!(https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/4.png)
+![](https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/1.png)
+![](https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/2.png)
+![](https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/3.png)
+![](https://github.com/SorryMyLife/MediaPlayerOnQT/blob/master/images/4.png)
